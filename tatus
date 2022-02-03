@@ -1,0 +1,251 @@
+[33mcommit 3fac539c2b228ad47a0a605bc135f4b65f0696d8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 10:41:09 2022 +0530
+
+    Media Quiery Added File Commited
+
+[33mcommit 8e75d1bbe3d6060ea6578e0808932cbe6467d8fe[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 10:38:12 2022 +0530
+
+    Var set for an spaific area
+
+[33mcommit 324223c5b1df7c97fa0abcf871d62a85627c3a6d[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 10:34:40 2022 +0530
+
+    var Declare in ::root position
+
+[33mcommit aa1b5a4f651995b44cc6ffd2d38f47577f9c57f6[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 10:30:56 2022 +0530
+
+    use initial value before fallback file commited
+
+[33mcommit 055e48c1aa0db79d8d1669c26675a47c1a94fb48[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 10:24:46 2022 +0530
+
+    Fallback Value Added in CSS declartion var
+
+[33mcommit 07d356099990de0b2d8b567202c4bae3f903e516[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 10:22:35 2022 +0530
+
+    Custom Varible Created File Commited
+
+[33mcommit 0a45cbc6ca9025d016d2d96c98555b370cfe651d[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 10:18:14 2022 +0530
+
+    CSS Varible Cretaed and Use Sucessfully
+
+[33mcommit 661456f62f58b84272f74eaa59c17d983ec9ad16[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 10:11:57 2022 +0530
+
+    CSS Varible Used in Pegin Class
+
+[33mcommit 7acab52f6a0ddee9e319e0d342ae5e8ceeb09484[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 10:04:51 2022 +0530
+
+    RBG Color Mix In (RR BB GG)
+
+[33mcommit b5ecacdf97a33f0295f01bd9b2d6e6433edb9b43[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 10:02:45 2022 +0530
+
+    Rbg Color Code Used
+
+[33mcommit edc511fbd4515727e19b3b2b183f8959c3787914[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 10:00:16 2022 +0530
+
+    Abbreviated Color Code used Commit
+
+[33mcommit af18296a0914a258df1ca3e1f4973ec0efe4449f[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 09:50:33 2022 +0530
+
+    Hex Color Code Mix RRBBGG
+
+[33mcommit ea414574c1b0741a5a53f4a595c3a3d697bc2ca5[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 09:48:39 2022 +0530
+
+    Hex Color Code use
+
+[33mcommit ac3a31c10ab85f03cf68d1d3a967d2d6cc677d7d[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 09:43:06 2022 +0530
+
+    Class Override Via Inline CSS
+
+[33mcommit 21e1d91426aef61dce076f77251f1376b772fb34[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 09:40:48 2022 +0530
+
+    Style Override Via ID Selector
+
+[33mcommit e00bbe1230745abcd83c5ab88b949891b6b98fdd[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 09:37:16 2022 +0530
+
+    Style Override Sucessfully File Commited
+
+[33mcommit 64ff9c106047f8f47b9ed9fc4749e0cfe826d1f6[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 09:31:47 2022 +0530
+
+    Piority Added In DIV ELEMNT Inline Vs Enternal
+
+[33mcommit 86c683bd843a22e4bd80368c46034edf79952169[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 09:28:24 2022 +0530
+
+    Style Inhreted From Body element
+
+[33mcommit 9f9db5dfc8561841fa20a158b4ee95165edd80bf[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 09:22:12 2022 +0530
+
+    Body Simple Selector Used File Commited
+
+[33mcommit 0003d539753668ae2addc0ba552c269ddde44281[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 09:19:47 2022 +0530
+
+    Absolute And Realtive Lenght value Added ommit
+
+[33mcommit c611735eff9f1b38ef45ba74acfa4fefe77e5703[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Thu Feb 3 09:07:29 2022 +0530
+
+    Type Atrribute Used Commit
+
+[33mcommit 07ce0787196baa93e5baf5b7d5c651a4a7144004[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 19:17:14 2022 +0530
+
+    Clockwise Margin Added
+
+[33mcommit d475772ac208e56a8ecede686076d5cca8c3da6e[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 19:14:19 2022 +0530
+
+    Add padding Clockwise
+
+[33mcommit c1a645f1829405ef5dcfb460fa4a6bb230ea152c[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 19:11:57 2022 +0530
+
+    Different Margin Added in Each side
+
+[33mcommit abf981e7b2727df9344c193425302b3cee4496f1[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 19:09:06 2022 +0530
+
+    Different Padding Added Each Side of Element
+
+[33mcommit 421f938844cfd0bfeb1be6a2a43562cea2393a88[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 19:06:17 2022 +0530
+
+    Negative Margin Added
+
+[33mcommit 114bd0c1f5f5b4981f2ced5c95e60e2fb9afd34c[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 19:05:39 2022 +0530
+
+    Negative Margin Added
+
+[33mcommit db8c5dcada47026e8aa5133972614bb973f1aad9[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 19:03:01 2022 +0530
+
+    File Commited
+
+[33mcommit 8e7032d04c00d82ccfb828db4f9ecf87a14c9c86[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 18:59:04 2022 +0530
+
+    Style and Element USing Id Selector
+
+[33mcommit 630969ad39b48f2ddafcdd968769069bc9cb2c65[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 18:55:53 2022 +0530
+
+    ID Set an html elemetn Commited
+
+[33mcommit 3755152e1e68697df5c7a7d33703029cca97221e[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 18:53:27 2022 +0530
+
+    Background Added In Div element
+
+[33mcommit b13c0a229df809f6a3165509b0f14e5027c9d043[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 18:49:32 2022 +0530
+
+    Image Border radius Added File Commited
+
+[33mcommit eb72db4c5336cd8113a475412d0a27ca358bb246[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 18:42:40 2022 +0530
+
+    Border Added In Element Commited
+
+[33mcommit 785a74b2c318b3150b5b0c063768e6baa24a6f4b[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 18:39:18 2022 +0530
+
+    Image resize
+
+[33mcommit 7d268aea49a1369c8b4642ed57fe4045cf584630[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 18:34:25 2022 +0530
+
+    Spacify How Font Shoud Degrade File Commmited
+
+[33mcommit a16050940fedfc5e7ffc29cd06701b0c2737420a[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 18:27:03 2022 +0530
+
+    Font Family Imported For URL
+
+[33mcommit 6082d4ace95c4bc54b9fa84297efa01446592528[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 18:20:58 2022 +0530
+
+    Font-family Apply
+
+[33mcommit e88d5561d133f6d45fead1e5562988b3984eb4c4[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 18:15:53 2022 +0530
+
+    Text Size Commit
+
+[33mcommit 5f6dc38c86175032026d453d282586900b77940e[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 18:10:54 2022 +0530
+
+    Style multiple element With Class
+
+[33mcommit 32f124e2d6a41cfdba92ed38752ba01a5df37e62[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 18:03:42 2022 +0530
+
+    Style Element With Class Selector
+
+[33mcommit 4c4e2c32f47b6c07dc7aff888e5d55ddf2fe9bb9[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 17:58:14 2022 +0530
+
+    Style Element With CSS Selector
+
+[33mcommit 368d58713cad75252670f295f52f464fa8ca1fc3[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Wed Feb 2 17:53:20 2022 +0530
+
+    Change Color Commit
